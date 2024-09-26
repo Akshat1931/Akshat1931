@@ -10,7 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8057&label=Profile%20views&color=0e75b6&style=flat" alt="akshat1931" /> </p>
 
-<p align="center">![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat1931&show_icons=true&bg_color=00000000) </p>
+<h3 align="center">📊 Akshat's GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=akshat1931&show_icons=true&bg_color=00000000" alt="Akshat's GitHub stats"/>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat1931" alt="akshat1971" /></a> </p>
 

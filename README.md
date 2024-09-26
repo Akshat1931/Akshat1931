@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://github-readme-stats.vercel.app/api?username=akshat1971&show_icons=true&bg_color=00000000"</a> </p>
 
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat1931&show_icons=true&bg_color=00000000)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" /> I’m currently learning **Next JS**

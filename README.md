@@ -36,4 +36,3 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-acually this is readme filr for my github can u add more featured tio mak eit even more beautiful
